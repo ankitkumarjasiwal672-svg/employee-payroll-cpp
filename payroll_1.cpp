@@ -1,7 +1,6 @@
 // employee payroll system
 // made by ankit kumar
-// this is a simple console based payroll program i made to practice c++
-// covers classes, file handling, vectors, loops, switch case
+
 
 #include<iostream>
 #include<fstream>
