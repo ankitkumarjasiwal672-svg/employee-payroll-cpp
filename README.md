@@ -84,16 +84,7 @@ ID    Name                Department            Basic       Take Home
 3     Rahul Singh         Customer Support      38000       36800
 4     Mohit Yadav         MIS & Reporting       60000       57800
 5     Nisha Patel         Customer Support      58000       54200
-```
 
----
-
-## other projects
-
-- [hr employee database](https://github.com/ankitkumarjasiwal672-svg/Hr-system-sql) — mysql / sql
-- [budget tracker](https://ankitkumarjasiwal672-svg.github.io/budget-tracker) — html css js
-
----
 
 open to data analyst / mis analyst roles in delhi ncr  
 ankit.kumarjasiwal672@gmail.com
